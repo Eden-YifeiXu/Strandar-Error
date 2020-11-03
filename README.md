@@ -1,0 +1,2 @@
+# Strandar-Error
+Create a Python computer program to compute the mean and standard error given a population. For this assignment, assume that the population consists of all whole numbers (integers) from and including 0 to and including 10000. Obviously the mean is 5000, but let's assume that we sample our population for n samples, where n = [10; 20; 50; 100; 200; 500; 1000; 5000]. Determine and output the sample mean and standard error.
